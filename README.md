@@ -1,12 +1,24 @@
-- 👋 Hi, I’m @Zazu124
-- 👀 I’m Passionate about clean code, responsive design, and turning ideas into real websites.
-- 🌱 I’m currently learning full-stack web development and building hands-on projects to grow my skills in HTML , CSS ,JAVASCRIPT , and more.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I'm Ziyad
 
-<!---
-Zazu124/Zazu124 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a **web developer** passionate about building clean, responsive, and interactive websites that turn ideas into real digital experiences.
+
+### 🚀 What I'm working on
+
+* 🌱 Improving my **full-stack web development** skills
+* 💻 Building projects with **HTML, CSS, JavaScript, Tailwind CSS, Node.js, Express, and more**
+* ✨ Exploring **GSAP animations** and modern frontend development
+* 🛠️ Building real-world projects to strengthen my skills
+
+### 🤝 I'm open to
+
+* Collaborating on interesting web-development projects
+* Open-source projects
+* Freelance and client work
+
+### 📫 Let's connect
+
+Feel free to reach out if you'd like to collaborate or work together.
+
+### ⚡ Fun fact
+
+I enjoy turning a blank page into something people can actually use.
